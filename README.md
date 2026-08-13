@@ -89,14 +89,6 @@ I particularly enjoy working at the intersection of **technology, policy, and re
 
 ---
 
-## 📊 GitHub Stats
-
-![Purushottam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purusap&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purusap&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in connecting with people working on:
