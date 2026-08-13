@@ -91,9 +91,9 @@ I particularly enjoy working at the intersection of **technology, policy, and re
 
 ## 📊 GitHub Stats
 
-![Purushottam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushottamsapkota&show_icons=true&hide_border=true&count_private=true)
+![Purushottam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purusap&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purushottamsapkota&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purusap&layout=compact&hide_border=true)
 
 ---
 
