@@ -27,7 +27,7 @@ A big part of my work revolves around **openIMIS** — helping partners implemen
 
 **Databases**
 
-`MySQL` `Microsoft SQL Server`
+`MySQL` `Microsoft SQL Server` `PostgreSQL`
 
 **Digital Health**
 
